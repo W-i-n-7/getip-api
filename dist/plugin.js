@@ -2,6 +2,7 @@ exports.version = 1.0
 exports.description = "Provides an url that returns the IP of the user"
 exports.apiRequired = 9.6
 exports.repo = "W-i-n-7/getip-api"
+exports.preview = ["https://raw.githubusercontent.com/W-i-n-7/getip-api/refs/heads/main/imgs/settings.png"]
 
 exports.config = {
     apiUrl: {
