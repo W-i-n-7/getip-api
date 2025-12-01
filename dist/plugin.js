@@ -1,6 +1,6 @@
 exports.version = 1.1
 exports.description = "Provides an url that returns the IP of the user"
-exports.apiRequired = 9.6
+exports.apiRequired = 10.3 // does not work below 0.55.0
 exports.repo = "W-i-n-7/getip-api"
 exports.preview = ["https://raw.githubusercontent.com/W-i-n-7/getip-api/refs/heads/main/imgs/settings.png"]
 
